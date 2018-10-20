@@ -1,0 +1,163 @@
+.container {
+    width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-logo {
+    margin-top: 61px;
+    margin-bottom: 45px;
+}
+
+.text-logo-features {
+    font-family: 'Montserrat';
+    color: #000000;
+    font-size: 80px;
+    font-weight: 400;
+    text-decoration: none;
+    text-transform: ;
+    display: block;
+}
+
+.blue-text {
+    color: #4bcaff;
+}
+
+.menu-top {
+    margin: 0;
+    text-align: center;
+    background-color: #35444f;
+    padding-bottom: 26px;
+    padding-top: 26px;
+    margin-bottom: 51px;
+}
+
+.menu-top-item {
+    display: inline;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Montserrat';
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.menu-top-item:nth-child(1) {
+    padding-left: 0;
+}
+
+.menu-top-item:nth-child(4) {
+    padding-right: 0;
+}
+
+.menu-top-item:nth-child(2) {
+    color: #ffff;
+    border: none;
+    background-color: #222f3a;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+
+
+.first-float-item {
+    font-family: 'Montserrat';
+    color: #485863;
+    font-size: 26.99px;
+    font-weight: 400;
+    text-transform: capitalize;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 44px;
+}
+
+.first-float-item:nth-child(1) {
+    padding-top: 30px;
+}
+
+.first-float-item:nth-child(2) {
+    border: 1px solid transparent;
+    background-color: gray;
+    font-weight: 700;
+    padding-left: 70px;
+}
+
+.first-float-item:nth-child(5) {
+    padding-bottom: 30px;
+}
+
+.first-float-features {
+    border: 1px solid black;
+    width: 344px;
+}
+
+.first-float-properties {
+    float: left;
+    margin-right: 52px;
+}
+
+.second-float-properties {
+    float: right;
+}
+
+.second-float-img {
+    border: 1px solid black;
+    padding-top: 73px;
+    padding-bottom: 75px;
+    padding-left: 268px;
+    padding-right: 268px;
+}
+
+.third-float {
+    float: right;
+    width: 856px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.third-float-text {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Montserrat';
+    color: #2c2b2b;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.menu-button {
+    margin-top: 934px;
+    margin-bottom: 30px;
+
+}
+
+.button-item-left {
+    margin: 0;
+}
+
+.button-item-right {
+    margin: 0;
+    text-align: right;
+    padding-right: 44px;
+}
+
+.text-button {
+    display: inline;
+}
+
+.menu-button-items {
+    height: 69px;
+    background-color: #D3D3D3;
+}
+
+.left-footer {
+    float: left;
+    width: 65%;
+    padding-left: 44px;
+    padding-top: 23px;
+}
+
+.right-footer {
+    float: right;
+    width: 25%;
+    padding-top: 23px;
+}
